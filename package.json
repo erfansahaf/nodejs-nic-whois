@@ -1,0 +1,18 @@
+{
+  "name": "nic-domain-checker",
+  "version": "1.0.0",
+  "description": "a Node.js project that allow you to check domains list with Nic.IR website.",
+  "main": "index.js",
+  "keywords": [
+    "DomainChecker",
+    "NicDomainChecker",
+    "DotIrDomainChecker",
+    "NodejsDomainChecker",
+    "WhoisDomain"
+  ],
+  "author": "Erfan Sahafnejad",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
