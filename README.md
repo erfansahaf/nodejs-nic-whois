@@ -2,7 +2,7 @@
 A Node.js project that allows you to check the list of domains are free or not. By Nic.IR whois service.
 
 # Install Dependencies
-Run following commands for clone repo and install dependencies:
+Run following commands to clone the project:
 ```sh
 $ git clone https://github.com/erfansahaf/nodejs-nic-whois
 $ cd nodejs-nic-whois
